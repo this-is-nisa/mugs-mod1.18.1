@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "pinapjuices:empty_mug"
+    },
+    "X": [
+      {
+        "item": "minecraft:cocoa_beans"
+      }
+    ]
+  },
+  "result": {
+    "item": "pinapjuices:coffee_mug"
+
+  }
+}
